@@ -15,11 +15,11 @@ struct Grocery {
 }
 
 fn display_quantity(grocery: &Grocery) {
-    println!("{:?}", grocery.quantity)
+    println!("quantity: {:?}", grocery.quantity)
 }
 
 fn display_number(grocery: &Grocery) {
-    println!("{:?}", grocery.number)
+    println!("number: {:?}", grocery.number)
 }
 
 fn main() {
