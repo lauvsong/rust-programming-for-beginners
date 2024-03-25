@@ -224,6 +224,7 @@ fn manual_print() {
     println!("2. View bills");
     println!("3. Remove bills");
     println!("4. Edit bill");
+    println!("5. Exit");
     println!("");
 }
 
